@@ -1,0 +1,19 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
+
+}
+
+.timer{
+    text-align: center;
+    background-color: white;
+    opacity: 0.5;
+    width: 50%;
+    align: center;
+    margin: auto;
+    height: 7em;
+    
+
+    
+}
